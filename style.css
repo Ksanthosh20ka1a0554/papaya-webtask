@@ -1,0 +1,155 @@
+.mainlogo{
+    width: 10%;
+    height: 10%;
+}
+.nav-bar{
+    height: 70px;
+}
+
+
+.button {
+    background-color: #0d6efd;
+    border: none;
+    color: white;
+    padding: 12px 9px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    line-height:1;
+    font-weight: 400;
+    border-radius: 0.40rem;
+    margin-left: 10px;
+    margin-right: 15px;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: #0d6efd; 
+    border: 1px solid #0d6efd;
+  }
+  
+  .button1:hover {
+    background-color: #0d6efd;
+    color: white;
+  }
+
+.login-blue {
+    background: linear-gradient(145deg, #2196F3, #3F51B5);
+}
+#login{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 100px;
+    width: fit-content;
+}
+.form-group{
+    padding-bottom: 10px;
+}
+
+.login-body{
+  background-color: #82C3EC;
+}
+.wel-login{
+  text-align: center;
+  position: relative;
+  margin-top: 20px;
+  font-family: Century Gothic;
+}
+#register{
+  position: relative;
+    margin-top: 40px;
+    margin-left: 100px;
+    width: fit-content;
+}
+.register-body{
+  background-color: #82C3EC;
+}
+.header{
+  background-color: #82C3EC;
+}
+.main-text{
+  text-align: left;
+}
+.carousel-inner{
+  margin: auto;
+}
+.card-slide{
+  margin-left: 350px;
+}
+.card-adv{
+  margin-left: 100px;
+}
+.para-text{
+  line-height: 32px;
+  text-align: justify;
+}
+.bg-image{
+  background: #136a8a;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #267871, #136a8a);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #267871, #136a8a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.box{
+  background: white;
+}
+.box:hover{
+  background: #C04848;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  transform: scale(1.2);
+}
+.s{
+  background: #8e9eab;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.ft-bg{
+  background: #ECE9E6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.photo-editing-port{
+  background: #EC6F66;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F3A183, #EC6F66);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F3A183, #EC6F66); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.video-editing-port{
+  background: #1CD8D2;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #93EDC7, #1CD8D2);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #93EDC7, #1CD8D2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.album-designing{
+  background: #F09819;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #EDDE5D, #F09819);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #EDDE5D, #F09819); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.main-port{
+  background: #EB3349;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F45C43, #EB3349);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F45C43, #EB3349); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.main-services{
+  background: #DA22FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #9733EE, #DA22FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #9733EE, #DA22FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.a-footer:link {
+  text-decoration: none;
+}
+
+.a-footer:visited {
+  text-decoration: none;
+}
+
+.a-footer:hover {
+  text-decoration: underline;
+}
+
+.a-footer:active {
+  text-decoration: underline;
+}
